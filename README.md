@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 👋 Hi there, I'm Aman!
 
-📊 Detail-oriented data analyst dedicated to extracting meaningful insights and driving data-driven decision-making.
+🌍 Welcome to my GitHub profile! Detail-oriented data analyst dedicated to extracting meaningful insights and driving data-driven decision-making.
 
 💼 Based in Nashik, Maharashtra, India, I actively contribute to projects that leverage data to solve complex problems.
 
